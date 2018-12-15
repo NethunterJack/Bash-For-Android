@@ -30,6 +30,7 @@ use_color=false
 
 # set some environment variables
 export HOME=/sdcard
+export TERM=xterm
 
 # enable colorful terminal
 if [[ ${EUID} == 0 ]] ; then
